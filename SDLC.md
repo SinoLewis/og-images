@@ -7,9 +7,9 @@
 1. Typography
 2. Dark mode & Theme Colors
 3. Layout & Sizing & Spacing
+4. Use Fireship theming
 
 ## 2. OG API pages
 
 1. GIPHY integration for gifs
 2. Dynamic Supabase image w/ Tailwind styling
-3. Use Fireship theming
