@@ -9,6 +9,9 @@
 3. Layout & Sizing & Spacing
 4. Use Fireship theming
 
+> Validation app for purged CSS
+
+
 ## 2. OG API pages
 
 1. GIPHY integration for gifs
